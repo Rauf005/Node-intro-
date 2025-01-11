@@ -1,0 +1,27 @@
+#addform{
+    background-color:skyblue;
+    width: 400px;
+    min-height: 400px;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin: 20px 0;
+   
+}
+#addform input{
+    width: 80%;
+    height: 30px;
+   
+    
+}
+#addform button{
+border: none;
+border-radius: 5px;
+background-color: rgb(100, 100, 255);
+width: 200px;
+height: 50px;
+color: white;
+}
